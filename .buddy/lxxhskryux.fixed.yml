@@ -1,0 +1,4 @@
+- pipeline: lxxhskryux
+  refs:
+  - refs/heads/master
+  on: CLICK
